@@ -20,8 +20,10 @@ __A User can see my initial repository and live demo__
 
 - Create a new repo generate from template
 - Write initial, basic README
-- Write initial, basic Development Strategy file
+- Write initial, basic Development Strategy
 - Add new wireframe
+- Create index.html, about.html and services.html
+- Add images
 - Turn on GitHub Pages
 
 ## 1. User Story: 
