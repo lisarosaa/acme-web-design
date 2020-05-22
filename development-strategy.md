@@ -18,8 +18,10 @@ __A User can see my initial repository and live demo__
 
 ### Repo
 
-- Generate from Template
+- Create a new repo generate from template
 - Write initial, basic README
+- Write initial, basic Development Strategy file
+- Add new wireframe
 - Turn on GitHub Pages
 
 ## 1. __
