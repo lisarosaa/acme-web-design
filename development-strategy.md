@@ -85,13 +85,13 @@ As a user story, I want to know more about the provider of service and their wor
 
 ### HTML
 
-- A section of About Us
-- A section of What We Do
+- An article of About Us
+- An aside of What We Do
 
 ### CSS
 
-- Styling for the section of About Us
-- Styling for the section of What We Do
+- Styling for the article of About Us
+- Styling for aside of What We Do
 
 ## 5. User Story: Page-Services
 As a user story, I want to know about the type of services and its price
@@ -101,11 +101,11 @@ As a user story, I want to know about the type of services and its price
 
 ### HTML
 
-A section of Services
+- An article of Services
 
 ### CSS
 
-Styling for the section of Services
+Styling for an article of Services
 
 ## 6. User Story: Quote
 As a user story, I want to be able to get a quote from the site
