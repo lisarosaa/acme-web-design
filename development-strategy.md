@@ -1,16 +1,16 @@
 # Development Strategy
 
-> `name-of-project`
+> `acme web design`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+- The project acts as a tutorial for learning simple clean code HTML & CSS
+- The project combines how to setting responsive mobile website
+- The project is for learning how to write complete readme file and development strategy file
 
 ## Wireframe
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](./wireframe.png)
 
 ## 0. Set-Up
 
@@ -24,7 +24,7 @@ __A User can see my initial repository and live demo__
 - Add new wireframe
 - Turn on GitHub Pages
 
-## 1. __
+## 1. User Story: 
 
 __full user story description__
 
