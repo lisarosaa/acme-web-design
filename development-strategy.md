@@ -22,31 +22,104 @@ __A User can see my initial repository and live demo__
 - Write initial, basic README
 - Write initial, basic Development Strategy
 - Add new wireframe
-- Create index.html, about.html and services.html
-- Add images
+- Create new file of index.html, about.html, services.html, and styles.css
+- Add assets: logo of services and background image
 - Turn on GitHub Pages
 
-## 1. User Story: 
+## 1. User Story: title
 
-__full user story description__
+As a user story, I want to know the name of the website
 
 ### Repo
 
-what branch(es) did you work on?
+1. This user story was developed on a brach called `title`
+2. It was merged to `master` when the feature was finished.
 
 ### HTML
 
-what did you change in the HTML and why?
+- A header element with a name of website
+- A navigation bar with a name of its function
+- A footer
 
 ### CSS
 
-what did you change in the CSS and why?
+- Layout styling for the header, navigation bar, & footer
+- Text styling for the name of website, navigation bar, and footer
 
-## 2. ...
+## 2. User Story: Website Introduction
 
-...
+As a user story, I want to know more about website and its services
 
-...
+1. This user story was developed on a brach called `website-intro`
+2. It was merged to `master` when the feature was finished.
+
+### HTML
+
+- A section of showcase
+- A section of boxes
+
+### CSS
+
+- Styling for a section of boxes
+- Styling for a section of showcase
+
+## 3. User Story: Newsletter
+As a user story, I want to be able to subscribe the mailing list using e-mail
+
+1. This user story was developed on a brach called `newsletter`
+2. It was merged to `master` when the feature was finished.
+
+### HTML
+
+A section of newsletter
+
+### CSS
+
+Styling for the section of newsletter
+
+## 4. User Story: Page-About
+As a user story, I want to know more about the provider of service and their work
+
+1. This user story was developed on a brach called `about`
+2. It was merged to `master` when the feature was finished.
+
+### HTML
+
+- A section of About Us
+- A section of What We Do
+
+### CSS
+
+- Styling for the section of About Us
+- Styling for the section of What We Do
+
+## 5. User Story: Page-Services
+As a user story, I want to know about the type of services and its price
+
+1. This user story was developed on a brach called `services`
+2. It was merged to `master` when the feature was finished.
+
+### HTML
+
+A section of Services
+
+### CSS
+
+Styling for the section of Services
+
+## 6. User Story: Quote
+As a user story, I want to be able to get a quote from the site
+
+1. This user story was developed on a brach called `quote`
+2. It was merged to `master` when the feature was finished.
+
+### HTML
+
+An aside of Get A Quote
+
+### CSS
+
+Styling for an aside of Get A Quote
 
 ## Finishing Touches
 
