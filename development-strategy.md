@@ -14,7 +14,7 @@
 
 ## 0. Set-Up
 
-__A User can see my initial repository and live demo__
+__As a user of the site I can see my initial repository and live demo__
 
 ### Repo
 
@@ -28,7 +28,7 @@ __A User can see my initial repository and live demo__
 
 ## 1. User Story: title
 
-As a user story, I want to know the name of the website
+As a user of the site, I want to know the name of the website
 
 ### Repo
 
@@ -48,7 +48,7 @@ As a user story, I want to know the name of the website
 
 ## 2. User Story: Website Introduction
 
-As a user story, I want to know more about website and its services
+As a user of the site, I want to know more about website and its services
 
 1. This user story was developed on a brach called `website-intro`
 2. It was merged to `master` when the feature was finished.
@@ -64,7 +64,7 @@ As a user story, I want to know more about website and its services
 - Styling for a section of showcase
 
 ## 3. User Story: Newsletter
-As a user story, I want to be able to subscribe the mailing list using e-mail
+As a user of the site, I want to be able to subscribe the mailing list using e-mail
 
 1. This user story was developed on a brach called `newsletter`
 2. It was merged to `master` when the feature was finished.
@@ -78,7 +78,7 @@ A section of newsletter
 Styling for the section of newsletter
 
 ## 4. User Story: Page-About
-As a user story, I want to know more about the provider of service and their work
+As a user of the site, I want to know more about the provider of service and their work
 
 1. This user story was developed on a brach called `about`
 2. It was merged to `master` when the feature was finished.
@@ -94,7 +94,7 @@ As a user story, I want to know more about the provider of service and their wor
 - Styling for aside of What We Do
 
 ## 5. User Story: Page-Services
-As a user story, I want to know about the type of services and its price
+As a user of the site, I want to know about the type of services and its price
 
 1. This user story was developed on a brach called `services`
 2. It was merged to `master` when the feature was finished.
@@ -108,7 +108,7 @@ As a user story, I want to know about the type of services and its price
 Styling for an article of Services
 
 ## 6. User Story: Quote
-As a user story, I want to be able to get a quote from the site
+As a user of the site, I want to be able to get a quote from the site
 
 1. This user story was developed on a brach called `quote`
 2. It was merged to `master` when the feature was finished.
